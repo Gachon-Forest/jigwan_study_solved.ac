@@ -1,5 +1,5 @@
 # Date: 7/18
-# No: 10845
+# No: 10828
 # Tier: 실버 4
 # Name: 스택
 # Language: PyPy3
